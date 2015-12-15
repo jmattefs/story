@@ -6,4 +6,14 @@ so how can I make this story different? I could delete some sentences, but then 
 
 THE END
 
+<<<<<<< HEAD
 LOTS OF CHANGES!!!!
+=======
+Or was it?  
+
+Years later there was a boy.  He had grown up well and had a great family.  He spent his summers with his grandparents and had plenty of friends.  One day he felt a pain in his lower back.  He could not shake this pain.  Days of pain turned into weeks of pain.  He suddenly noticed one day upon waking up that the skin on his back became dry and painful to touch.  He began wearing big padded sweatshirts and puffy coats, sometimes it would be 85 degrees outside and he would be wearing these clothes just to cover his back.  He began to be very afraid.
+
+He was slowly turning into a turtle and had no idea.  T
+
+OR He was slowly going insane and did not know why!
+>>>>>>> f2ff3bd57cf8ee4e524bd4b1cc24a77b7132a7c0
